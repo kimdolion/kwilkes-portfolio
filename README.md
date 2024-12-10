@@ -1,4 +1,10 @@
+## About
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app) made for my CS 601 class at Boston University. While it has Tailwind installed as part of the package.json, I did not use it for my CSS.
+
+This app includes professional and personal details about me, my work experiences, and my another dear project I work on with my family known as [Village Values](https://villagevalues.org/).
+
+For fun, I've added in png images of cosplay I've done as well as a joke generator using the [icanhazdadjoke api](https://icanhazdadjoke.com/api).
 
 ## Getting Started
 
