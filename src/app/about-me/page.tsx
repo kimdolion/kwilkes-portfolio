@@ -8,20 +8,20 @@ export default function AboutMe() {
         <h2>About Me: Professionally</h2>
         <div>
           <p>
-            I’m an Software Engineer with a passion for optimizing workflows and
-            driving impactful solutions. Currently working with the New York
-            State Education Department, I focus on enhancing performance
-            management systems through innovative technology. My expertise spans
-            software development, data analysis, and project coordination,
-            supported by a strong foundation in data structures and algorithms.
-            I’m committed to continuous learning, problem-solving, and
-            collaboration to create user-centric, efficient solutions that make
-            a difference.
+            I&apos;m an Software Engineer with a passion for optimizing
+            workflows and driving impactful solutions. Currently working with
+            the New York State Education Department, I focus on enhancing
+            performance management systems through innovative technology. My
+            expertise spans software development, data analysis, and project
+            coordination, supported by a strong foundation in data structures
+            and algorithms. I&apos;m committed to continuous learning,
+            problem-solving, and collaboration to create user-centric, efficient
+            solutions that make a difference.
           </p>
           <p>
             With my can-do attitude, love of puzzles, and willingness to do
-            deep-dives into things I've developed quite a few skills that help
-            me do my job.
+            deep-dives into things I&apos;ve developed quite a few skills that
+            help me do my job.
           </p>
           <h4>Professional Skills</h4>
           <div>
