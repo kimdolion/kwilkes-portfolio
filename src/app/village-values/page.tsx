@@ -16,10 +16,11 @@ export default function VillageValues() {
         identity, patriotism, education, and language.
       </p>
       <p>
-        We'd love to collaborate with others as we unpack what it means to be a
-        patriot, find commonalities across languages, and learn to celebrate
-        life around us through art. One of our biggest questions for world is
-        what does patriotism mean to you? You can contribute to #OurPatriotism.
+        We&apos;d love to collaborate with others as we unpack what it means to
+        be a patriot, find commonalities across languages, and learn to
+        celebrate life around us through art. One of our biggest questions for
+        world is what does patriotism mean to you? You can contribute to
+        #OurPatriotism.
         <a
           className="link"
           href="https://www.villagevalues.org/blog/ourpatriotism-profile-korean-black-american-rynaidrosa"

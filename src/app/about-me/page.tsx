@@ -48,12 +48,12 @@ export default function AboutMe() {
         <div className="casual-container">
           <h2>About Me: Casually</h2>
           <p>
-            I'm African Korean American and proud of my multicultural heritage.
-            I'm a jill of all trades, master of none; I find joy in just about
-            anything. That being said, I'm a huge nerd: animals, gaming,
-            cosplay, crafts, and anything to do with fantasy will catch my
-            attention. I probably know something random about an animal that you
-            may have never heard of before.
+            I&apos;m African Korean American and proud of my multicultural
+            heritage. I&apos;m a jill of all trades, master of none; I find joy
+            in just about anything. That being said, I&apos;m a huge nerd:
+            animals, gaming, cosplay, crafts, and anything to do with fantasy
+            will catch my attention. I probably know something random about an
+            animal that you may have never heard of before.
           </p>
           <Gallery />
           <ul>
