@@ -9,14 +9,14 @@ export default function AboutMe() {
         <div>
           <p>
             I&apos;m an Software Engineer with a passion for optimizing
-            workflows and driving impactful solutions. Currently working with
-            the New York State Education Department, I focus on enhancing
-            performance management systems through innovative technology. My
-            expertise spans software development, data analysis, and project
-            coordination, supported by a strong foundation in data structures
-            and algorithms. I&apos;m committed to continuous learning,
-            problem-solving, and collaboration to create user-centric, efficient
-            solutions that make a difference.
+            workflows and driving impactful solutions. I am a career changer who
+            started in elementary education, then made the switch to Software
+            Engineering through General Assembly&apos;s Software Engineering
+            Immersive bootcamp. I love working in the frontend, making beautiful
+            UIs and thoroughly testing the UX with the goal of ensuring
+            accessible and responsive apps. I&apos;m committed to continuous
+            learning, problem-solving, and collaboration to create user-centric,
+            efficient solutions that make a difference.
           </p>
           <p>
             With my can-do attitude, love of puzzles, and willingness to do

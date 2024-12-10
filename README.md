@@ -6,6 +6,8 @@ This app includes professional and personal details about me, my work experience
 
 For fun, I've added in png images of cosplay I've done as well as a joke generator using the [icanhazdadjoke api](https://icanhazdadjoke.com/api).
 
+This project is [deployed here](https://kwilkes-portfolio-9365-git-main-kimdolions-projects.vercel.app/) via Vercel
+
 ## Getting Started
 
 First, run the development server:
